@@ -1,7 +1,7 @@
 {
     "name": "sysvale/laravel-mongodb-passport",
     "description": "A package to allow laravel/passport use with jenssegers/laravel-mongodb",
-    "homepage": "https://github.com/Sysvale/laravel-mongodb-passport",
+    "homepage": "https://github.com/AndySamuelAG/laravel-mongodb-passport",
     "license": "MIT",
     "keywords": [
         "laravel",
@@ -27,10 +27,6 @@
             "name": "DesignMyNight",
             "email": "support@designmynight.com",
             "role": "Support"
-        },
-        {
-            "name": "Geidson",
-            "email": "geidson@sysvale.com"
         },
         {
             "name": "Andy",
