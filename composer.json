@@ -1,5 +1,5 @@
 {
-    "name": "sysvale/laravel-mongodb-passport",
+    "name": "andysamuelag/laravel-mongodb-passport",
     "description": "A package to allow laravel/passport use with jenssegers/laravel-mongodb",
     "homepage": "https://github.com/AndySamuelAG/laravel-mongodb-passport",
     "license": "MIT",
@@ -9,11 +9,10 @@
         "laravel-mongodb-passport",
         "laravel-passport",
         "mongodb",
-        "passport",
-        "sysvale"
+        "passport"
     ],
     "require": {
-        "php": ">=7.1",
+        "php": "^8.0",
         "jenssegers/mongodb": "^3.0",
         "laravel/passport": "6.0.* || 7.0.* || 7.4.* || 7.5.* || ^8.0 || ^9.0 || ^10 || ^11"
     },
